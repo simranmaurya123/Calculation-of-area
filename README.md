@@ -30,9 +30,10 @@ All these taks are done using java language
 ## PREQUISITES
 - Stable version of java should be installed on the system
 
-## Installation
+## INSTALLATION
 
 - clone the repository to ur local machine
+
 ```
 git clone https://github.com/simranmaurya123/Calculation-of-area.git
 
@@ -41,6 +42,15 @@ git clone https://github.com/simranmaurya123/Calculation-of-area.git
 - Navigate to the repository category
  
 ```
-cd Java
+cd Calculation-of-area
 
 ```
+
+- Run the script
+
+```
+
+java 'filename'
+
+```
+
