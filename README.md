@@ -1,4 +1,11 @@
-# Calculation-of-area
+# Java
+
+![java logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqN00TmiG2tJ-tdwZYZTis7OF-qocpWGTQw&s)
+
+- Java is a versatile, high-level programming language used for developing a wide range of applications, from mobile apps to large-scale enterprise systems. Known for its portability, performance, and security, - 
+ Java is a popular choice among developers worldwide.
+
+## Calculation-of-area
 
 
 
@@ -9,13 +16,6 @@
 - and to find root of quadratic equations
 
 All these taks are done using java language
-
-## Java
-
-![java logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqN00TmiG2tJ-tdwZYZTis7OF-qocpWGTQw&s)
-
-- Java is a versatile, high-level programming language used for developing a wide range of applications, from mobile apps to large-scale enterprise systems. Known for its portability, performance, and security, - 
- Java is a popular choice among developers worldwide.
 
 
 ## DOWNLOAD
