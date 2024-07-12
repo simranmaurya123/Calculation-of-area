@@ -5,7 +5,7 @@
 - Java is a versatile, high-level programming language used for developing a wide range of applications, from mobile apps to large-scale enterprise systems. Known for its portability, performance, and security, - 
  Java is a popular choice among developers worldwide.
 
-## Calculation-of-area
+## Calculation of area
 
 
 
